@@ -3,10 +3,12 @@
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
 </div>
 
-<h1> Hello! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello! <img src = "hi.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/AlexandreCorcos)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexandreCorcos.AlexandreCorcos)
+
+![views](https://visitor-badge-deno.deno.dev/AlexandreCorcos.svg)
 
 </p>
 <div size='20px'> Hi! My name is Alexandre Corcos. Thank You for taking the time to view my GitHub Profile :smile: 
