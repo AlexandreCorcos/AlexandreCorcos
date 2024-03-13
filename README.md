@@ -6,9 +6,7 @@
 <h1> Hello! <img src = "hi.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexandreCorcos.AlexandreCorcos)
 
-![views](https://visitor-badge-deno.deno.dev/AlexandreCorcos.svg)
 
 </p>
 <div size='20px'> Hi! My name is Alexandre Corcos. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -43,8 +41,10 @@
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/acorcos/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://alexandrecorcos.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/https://github.com/AlexandreCorcos'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<br>
+<br>
 
-
+![views](https://visitor-badge-deno.deno.dev/AlexandreCorcos.svg)
 
 
 <br>
