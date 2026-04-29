@@ -60,12 +60,6 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AlexandreCorcos&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
-
-<div align="center">
-
 ![snake](https://raw.githubusercontent.com/AlexandreCorcos/AlexandreCorcos/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake](https://raw.githubusercontent.com/AlexandreCorcos/AlexandreCorcos/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
